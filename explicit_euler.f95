@@ -23,12 +23,4 @@ program explicit_euler
   
   print *, sol
 
-
-
-
-
-
-
-
-
 end program explicit_euler
